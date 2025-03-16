@@ -33,6 +33,9 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 
 📂 **Códigos**  
+- [Empilhavel.java](Unidade%20I/Códigos/Aula%2010.03/Empilhavel.java)
+(Código passado em aula no dia 10/03)
+
 
 ## 🖋 Autoria
 Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados está sendo cursada em 2025.1 e os conteúdos e exemplos práticos são/foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.

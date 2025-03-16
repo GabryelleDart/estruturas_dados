@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ## 1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares  
 
 📂 **Resumos**  
-- [Introdução a Estruturas de Dados](Unidade I/Resumos das Aulas/Pilhas- Introdução.pdf)  
+[Introdução a Estruturas de Dados](Unidade\ I/Resumos\ das\ Aulas/Pilhas-\ Introdução.pdf)
 
 
 📂 **Códigos**  

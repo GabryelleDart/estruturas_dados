@@ -35,4 +35,4 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 📂 **Códigos**  
 
 ## 🖋 Autoria
-Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados foi cursada em 2025.1 e os conteúdos e exemplos práticos foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.
+Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados está sendo cursada em 2025.1 e os conteúdos e exemplos práticos são/foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.

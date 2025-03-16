@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ## 📂 Organização do Repositório  
 
 ```bash
-📦 Estruturas-de-Dados
+📦 Estrutura-de-Dados
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos

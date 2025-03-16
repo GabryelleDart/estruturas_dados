@@ -1,4 +1,4 @@
-# Estrutura de Dados📊
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=B22EF7&width=438&height=55&lines=%F0%9F%93%8A+Estrutura+de+Dados;%F0%9F%8E%93+Gabryelle+Beatriz+Duarte+Moraes;%F0%9F%93%85+2025.1+;%F0%9F%93%9A+3%C2%B0+semestre)](https://git.io/typing-svg)
 
 Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão organizados meus resumos e códigos práticos das três unidades da matéria ministrada pelo docente @claudiorodolfo no semestre de 2025.1 . O objetivo é consolidar o aprendizado e disponibilizar exemplos práticos para consultas futuras.
 

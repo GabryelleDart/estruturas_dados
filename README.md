@@ -12,6 +12,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 ```bash
 📦 Estrutura-de-Dados
+├── 📁 Material complementar
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos

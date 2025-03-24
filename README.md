@@ -30,9 +30,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixar os conceitos abordados em sala.
 
 <h3>📚Exercícios de Revisão </h3>
--[Revisão de Arrays] (https://github.com/GabryelleDart/estruturas_dados/tree/main/Material%20Complementar/Exercicios%20de%20Revisao)
-
-
+- Revisão de Arrays
 
 ## 1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares  
 

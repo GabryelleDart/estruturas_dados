@@ -1,3 +1,4 @@
+package materialComplementar.exerciciosDeRevisaoArray;
 import java.util.Scanner;
 
 public class ArrayOrdemInversa{

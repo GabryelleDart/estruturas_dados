@@ -13,7 +13,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ```bash
 📦 Estrutura-de-Dados
 ├── 📁 Material complementar
-│   ├── 📁 Exercícios de Revisão
+│   ├── 📁 Exercícios de Revisão 
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos
@@ -26,6 +26,12 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 └── README.md
 
 ```
+## 📑 Material Complemetar 
+Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixar os conceitos abordados em sala.
+
+<h3>📚Exercícios de Revisão </h3>
+- [Revisão de Arrays](https://github.com/GabryelleDart/estruturas_dados/tree/main/Material%20Complementar/Exerc%C3%ADcios%20de%20Revis%C3%A3o%20)
+
 ## 1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares  
 
 📂 **Resumos**  

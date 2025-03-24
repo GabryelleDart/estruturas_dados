@@ -13,6 +13,7 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ```bash
 📦 Estrutura-de-Dados
 ├── 📁 Material complementar
+│   ├── 📁 Exercícios de Revisão
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos
@@ -29,14 +30,21 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 📂 **Resumos**  
 - [Introdução a Estruturas de Dados](Unidade%20I/Resumos%20das%20Aulas/Pilhas-%20Introdução.pdf)
- 
+- [Pilhas Estáticas - abordagem sobre interface e demais temas](Unidade%20I/Resumos%20das%20Aulas/Pilhas-%20Interfaces%20e%20Pilha%20invertida.pdf)
+
 
 
 
 📂 **Códigos**  
 - [Empilhavel.java](Unidade%20I/Códigos/Aula%2010.03/Empilhavel.java)
+  
 (Código passado em aula no dia 10/03)
 
+- [PilhaInvertida.java](Unidade%20I/Códigos/Aula%2010.03/PilhaInvertida.java)
+- [PilhaEstática.java](Unidade%20I/Códigos/Aula%2010.03/PilhaEstatica.java)
+- [PilhaEstáticaPrincipal.java](Unidade%20I/Códigos/Aula%2010.03/PilhaEstaticaPrincipal.java)
+  
+(Códigos feitos na aula no dia 17/03)
 
 ## 🖋 Autoria
 Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados está sendo cursada em 2025.1 e os conteúdos e exemplos práticos são/foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.

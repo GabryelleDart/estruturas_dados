@@ -4,7 +4,8 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 ## 📚 Índice  
 
-- [📂 Organização do Repositório](#📂-organização-do-repositório)  
+- [📂 Organização do Repositório](#📂-organização-do-repositório)
+- [📑 Material Complementar](#📑-material-complementar)  
 - [1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares](#1️⃣-unidade-1---fundamentos-e-estruturas-lineares)  
 - [🖋 Autoria](#🖋-autoria)
 

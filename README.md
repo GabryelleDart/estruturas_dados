@@ -14,7 +14,9 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ```bash
 📦 Estrutura-de-Dados
 ├── 📁 Material complementar
-│   ├── 📁 Exercícios de Revisão 
+│   ├── 📁 Exercícios de Revisão
+│   ├── 📁 Exercícios Fila
+│   │   ├── 📁 Vídeo de Implementação Prof Isidro
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos

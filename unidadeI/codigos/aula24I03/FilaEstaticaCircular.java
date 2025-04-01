@@ -1,5 +1,5 @@
 package unidadeI.codigos.aula24I03;
-
+//revisar o metodo avançar do github do professor- que serve para mover o ponteiro
 public class FilaEstaticaCircular implements Fila {
     private Object[] dados;
     private int ponteiroinicio;
@@ -19,10 +19,11 @@ public class FilaEstaticaCircular implements Fila {
 
     @Override
     public void enfileirar(Object dado) {
+        if(!estaCheia){
         ponteirofim=(ponteirofim+1)%dados.length;//abre o espaço
         dados[ponteirofim]=dado;//coloca na casa
         quantidade++;
-        
+        }
     }
 
     @Override

@@ -1,4 +1,5 @@
 public class PilhaEstatica implements Empilhavel{
+    // lembrete há 2 formas de implementar a pilha dupla- criando metodos para cada uma delas (melhor) e outra formas seria passar a pilha na hora de chaamr o metodo
     //A classe tem  as variaveis de instancia e metodos
     /*Em metodos tem-se os 3 tipos:
      *         Construtores

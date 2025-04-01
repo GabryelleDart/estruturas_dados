@@ -4,7 +4,8 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 ## 📚 Índice  
 
-- [📂 Organização do Repositório](#📂-organização-do-repositório)  
+- [📂 Organização do Repositório](#📂-organização-do-repositório)
+- [📑 Material Complementar](#📑-material-complementar)  
 - [1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares](#1️⃣-unidade-1---fundamentos-e-estruturas-lineares)  
 - [🖋 Autoria](#🖋-autoria)
 
@@ -13,7 +14,9 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 ```bash
 📦 Estrutura-de-Dados
 ├── 📁 Material complementar
-│   ├── 📁 Exercícios de Revisão 
+│   ├── 📁 Exercícios de Revisão
+│   ├── 📁 Exercícios Fila
+│   │   ├── 📁 Vídeo de Implementação Prof Isidro
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos
@@ -30,7 +33,11 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixar os conceitos abordados em sala.
 
 <h3>📚Exercícios de Revisão </h3>
-- Revisão de Arrays
+
+<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosDeRevisaoArray" target="_blank"> - Revisão de Array</a>
+
+<h3>📚Fila - Canal Prof Isidro </h3>
+<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosFila/videoDeImplementacaoProfIsidro" target="_blank"> - Introdução a Fila</a>
 
 ## 1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares  
 
@@ -51,6 +58,15 @@ Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixa
 - [PilhaEstáticaPrincipal.java](unidadeI/codigos/Aula10I03/PilhaEstaticaPrincipal.java)
   
 (Códigos feitos na aula no dia 17/03)
+
+- [Fila.java](unidadeI/codigos/Aula24I03/Fila.java)
+- [FilaCircularDupla.java](unidadeI/codigos/Aula24I03/FilaCircularDupla.java)
+- [FilaDupla.java](unidadeI/codigos/Aula24I03/FilaDupla.java)
+- [FilaEstatica.java](unidadeI/codigos/Aula24I03/FilaEstatica.java)
+- [FilaEstaticaCircular.java](unidadeI/codigos/Aula24I03/FilaEstaticaCircular.java)
+- [Main.java](unidadeI/codigos/Aula24I03/Main.java)
+  
+(Códigos feitos na aula no dia 24/03)
 
 ## 🖋 Autoria
 Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados está sendo cursada em 2025.1 e os conteúdos e exemplos práticos são/foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.

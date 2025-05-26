@@ -13,13 +13,10 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 ```bash
 📦 Estrutura-de-Dados
-├── 📁 Material complementar
-│   ├── 📁 Exercícios de Revisão
-│   ├── 📁 Exercícios Fila
-│   │   ├── 📁 Vídeo de Implementação Prof Isidro
 ├── 📁 Unidade I
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos
+│   ├── 📁 Material complementar
 ├── 📁 Unidade II
 │   ├── 📁 Resumos das Aulas
 │   ├── 📁 Códigos
@@ -29,15 +26,6 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 └── README.md
 
 ```
-## 📑 Material Complemetar 
-Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixar os conceitos abordados em sala.
-
-<h3>📚Exercícios de Revisão </h3>
-
-<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosDeRevisaoArray" target="_blank"> - Revisão de Array</a>
-
-<h3>📚Fila - Canal Prof Isidro </h3>
-<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosFila/videoDeImplementacaoProfIsidro" target="_blank"> - Introdução a Fila</a>
 
 ## 1️⃣ Unidade 1 - Fundamentos e Estruturas Lineares  
 
@@ -67,6 +55,24 @@ Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixa
 - [Main.java](unidadeI/codigos/Aula24I03/Main.java)
   
 (Códigos feitos na aula no dia 24/03)
+
+📑**Material Complemetar**
+
+Seção destinada a quaisquer conteúdo/práticas adicionais que auxiliam a fixar os conceitos abordados em sala.
+
+<h3>📚Exercícios de Revisão </h3>
+
+<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosDeRevisaoArray" target="_blank"> - Revisão de Array</a>
+
+<h3>📚Fila - Canal Prof Isidro </h3>
+<a href="https://github.com/GabryelleDart/estruturas_dados/tree/main/materialComplementar/exerciciosFila/videoDeImplementacaoProfIsidro" target="_blank"> - Introdução a Fila</a>
+
+
+## 2️⃣ Unidade 2 - Estruturas Dinâmicas
+📂 **Resumos** 
+📂 **Códigos**
+📑**Material Complemetar**
+
 
 ## 🖋 Autoria
 Este portfólio foi desenvolvido por Gabryelle Beatriz Duarte Moraes , estudante de Sistemas de Informação no IFBA. A matéria de Estruturas de Dados está sendo cursada em 2025.1 e os conteúdos e exemplos práticos são/foram desenvolvidos para fins de aprendizado e consolidação do conhecimento.

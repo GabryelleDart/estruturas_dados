@@ -1,12 +1,13 @@
 package application;
 
 import pd.entities.PilhaDinamica;
+import pd.interf.Empilhavel;
 
 //mesma coisa da main da pilha estatica
 public class Program {
 
 	public static void main(String[] args) {
-		PilhaDinamica pc=new PilhaDinamica();
+		Empilhavel pc=new PilhaDinamica();
 		pc.push("Estruturas ");
 		pc.push("de");
 		pc.push("Dados");

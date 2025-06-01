@@ -1,14 +1,16 @@
 package pd.entities;
 
-import pd.interf.Empilhavel;
+// import interf.Empilhavel; // Removed or update this line if Empilhavel is in a different package
+import pd.entities.Empilhavel; // Use the correct package if Empilhavel is in 'pd.entities'
+import pd.entities.NoDuplo; // Import NoDuplo if it is in the same package
 
 public class PilhaDinamica  implements Empilhavel{
 	private int tamanho;// esse seria um tamanho maximo da estrutura, não sera alocado - é o tam maximo
-	private int quantidade;//quamtos elementos se tem no exato momento
-	private NoDuplo ponteiroTopo;
+	private int quantidade;//quantos elementos se tem no exato momento
+	private NoDuplo ponteiroTopo;//referencia para o topo da pilha, que é o ultimo elemento adicionado da pilha , agora a referencia sao nós 
 	
 	public PilhaDinamica() {
-		this(100);
+		this(100);//esse é o tamanho máximo
 	}
 	
 	

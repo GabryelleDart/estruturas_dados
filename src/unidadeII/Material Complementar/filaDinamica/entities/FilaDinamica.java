@@ -1,4 +1,4 @@
-public class FilaDinamica implements Listavel {
+public class FilaDinamica implements Enfileiravel {
     private NoDuplo ponteiroInicio;
     private NoDuplo ponteiroFim;
     private int tamanho;
@@ -16,7 +16,19 @@ public FilaDinamica() {
     }
     @Override
     public Object desenfileirar() {
-        ()
+        Object aux= null;
+        if(isEmpty()){
+            throw new IllegalStateException("Fila vazia");
+        }
+        else{
+            aux= ponteiroInicio.getDado();
+            ponteiroInicio=ponteiroInicio.getProximo();
+            quantidade--;
+            if(ponteiroInicio == null) {
+                ponteiroFim = null; // se a fila ficar vazia, ponteiroFim também deve ser nulo
+            }
+        }
+        return aux;
     }
 
     @Override
@@ -49,8 +61,17 @@ public FilaDinamica() {
 
     @Override
     public String imprimir() {
-        // TODO Auto-generated method stub
-        return null;
+        String aux="[";
+        NoDuplo atual = ponteiroInicio;
+        for(int i=0;i>quantidade;i++){
+           if(i!=quantidade-1){
+             atual+= atual.getDado()+", ";
+           }else{
+             atual+= atual.getDado()+"]";
+           }
+         atual= atual.getPosterior();
+        }
+        return aux;
     }
 
     @Override

@@ -1,4 +1,4 @@
-public interface Listavel {
+public interface Enfileiravel {
     void enfileirar(Object dado);
     Object espiar();
     Object desenfileirar ();

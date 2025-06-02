@@ -8,7 +8,9 @@ import entities.ListaDinamicaDuplamenteEncadeada;
 import intef.Listavel;
 import entities.NoDuplo;
 class ListaDinamicaTeste {
-
+/**
+ *
+ */
 	@Test
 	void testListaDinamicaDuplamenteEncadeada() {
 		fail("Not yet implemented");

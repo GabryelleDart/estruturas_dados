@@ -1,8 +1,7 @@
-package unidadeII.MaterialComplementar.filaDinamica.entities;
+package entities;
 
 public class NoDuplo {
 	private NoDuplo anterior; //necessario ter os ponteiro agora - cada nó terá ponteiro para o anterior e o próximo
-	
 	private Object dado;
 	private NoDuplo posterior;
 	
@@ -31,7 +30,4 @@ public class NoDuplo {
 		this.posterior = posterior;
 	}
 	
-	
-	
-
 }

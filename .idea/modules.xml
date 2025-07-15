@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/unidade2/codigoDasAulas/aula02I06/aula02I06.iml" filepath="$PROJECT_DIR$/unidade2/codigoDasAulas/aula02I06/aula02I06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade1/codigoDasAulas/aula07I04/aula07I04.iml" filepath="$PROJECT_DIR$/unidade1/codigoDasAulas/aula07I04/aula07I04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade1/codigoDasAulas/aula10I03/aula10I03.iml" filepath="$PROJECT_DIR$/unidade1/codigoDasAulas/aula10I03/aula10I03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade1/codigoDasAulas/aula17I03/aula17I03.iml" filepath="$PROJECT_DIR$/unidade1/codigoDasAulas/aula17I03/aula17I03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/codigoDasAulas/aula19I05/aula19I05.iml" filepath="$PROJECT_DIR$/unidade2/codigoDasAulas/aula19I05/aula19I05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade1/codigoDasAulas/aula24I03/aula24I03.iml" filepath="$PROJECT_DIR$/unidade1/codigoDasAulas/aula24I03/aula24I03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade1/codigoDasAulas/aula31I03/aula31I03.iml" filepath="$PROJECT_DIR$/unidade1/codigoDasAulas/aula31I03/aula31I03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estruturas_dados.iml" filepath="$PROJECT_DIR$/.idea/estruturas_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/materiaisComplementares/filaDinamica/filaDinamica.iml" filepath="$PROJECT_DIR$/unidade2/materiaisComplementares/filaDinamica/filaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/materiaisComplementares/listaDinamica/listaDinamica.iml" filepath="$PROJECT_DIR$/unidade2/materiaisComplementares/listaDinamica/listaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/materiaisComplementares/exerciciosPilhaDinamica/notaçãoPosFixa/notaçãoPosFixa.iml" filepath="$PROJECT_DIR$/unidade2/materiaisComplementares/exerciciosPilhaDinamica/notaçãoPosFixa/notaçãoPosFixa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/materiaisComplementares/pilhaDinamica/pilhaDinamica.iml" filepath="$PROJECT_DIR$/unidade2/materiaisComplementares/pilhaDinamica/pilhaDinamica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unidade2/materiaisComplementares/exerciciosPilhaDinamica/validadorDeExpressoesMatematicas/validadorDeExpressoesMatematicas.iml" filepath="$PROJECT_DIR$/unidade2/materiaisComplementares/exerciciosPilhaDinamica/validadorDeExpressoesMatematicas/validadorDeExpressoesMatematicas.iml" />
+    </modules>
+  </component>
+</project>

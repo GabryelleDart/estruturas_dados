@@ -63,6 +63,7 @@ public class Abp<T extends Comparable<T>>implements Arborizavel<T>{
 				NoTriplo<T>novonodo=new NoTriplo<T>();
 				novonodo.setDado(dado);
 				novonodo.setGenitor(atual)
+				atual.setFilhoesquerdo(novonodo);
 			}else{
 				inserirRecursivo(atual.getFilhoesquerdo(),dado);
 			}
@@ -72,6 +73,7 @@ public class Abp<T extends Comparable<T>>implements Arborizavel<T>{
 				NoTriplo<T>novonodo=new NoTriplo<T>();
 				novonodo.setDado(dado);
 				novonodo.setGenitor(atual)
+				atual.setFilhodireito(novonodo);
 			}else{
 				inserirRecursivo(atual.getFilhodireito(),dado);
 			}
@@ -104,7 +106,9 @@ public class Abp<T extends Comparable<T>>implements Arborizavel<T>{
 		}
 	    return dado;
 	}
-
+	public String exist(T dado){
+		if(existRec)
+	}
 	public void apagaFolha(NoTriplo<T> auxiliar) {
 		//pegar referencia para o pai
 		NoTriplo<T> papai=auxiliar.getGenitor();

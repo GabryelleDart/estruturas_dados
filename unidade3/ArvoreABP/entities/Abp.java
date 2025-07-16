@@ -48,13 +48,34 @@ public class Abp<T extends Comparable<T>>implements Arborizavel<T>{
 			}
 		}
 	}
-	public void inserirRecursivo
+	public void inserirRecursivo(T dado){
+		if(raiz==null){
+			raiz.setDado(dado);
+		}else{
+			inserirRecursivo(raiz,dado);
+		}
+	}
 	private void inserirRecursivo(NoTriplo<T> atual,T dado) {
-		atual=raiz;
-		if()
-		NoTriplo<T> nodo= new NoTriplo<T>();
-		nodo.setDado(dado);
-		
+		//haverá 2 casos base e 2 elses recursivos visto que há a opçao de ser maior ou menor que a raiz
+		if(dado.compareTo(atual.getDado())<=0){
+		//esquerda
+			if(atual.getFilhoesquerdo()==null){
+				NoTriplo<T>novonodo=new NoTriplo<T>();
+				novonodo.setDado(dado);
+				novonodo.setGenitor(atual)
+			}else{
+				inserirRecursivo(atual.getFilhoesquerdo(),dado);
+			}
+		}else{
+		//direita
+			if(atual.getFilhodireito()==null){
+				NoTriplo<T>novonodo=new NoTriplo<T>();
+				novonodo.setDado(dado);
+				novonodo.setGenitor(atual)
+			}else{
+				inserirRecursivo(atual.getFilhodireito(),dado);
+			}
+		}
 	}
 	@Override
 	public NoTriplo<T> getRaiz() {

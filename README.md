@@ -13,16 +13,19 @@ Bem-vindo ao meu portfólio da disciplina **Estruturas de Dados**! Aqui estão o
 
 ```bash
 📦 Estrutura-de-Dados
+├── 📁 Resumos das Aulas
+│   ├── 📁 Unidade I
+│   ├── 📁 Unidade II
+│   ├── 📁 Unidade III
 ├── 📁 Unidade I
-│   ├── 📁 Resumos das Aulas
-│   ├── 📁 Códigos
+│   ├── 📁 Códigos das aulas
 │   ├── 📁 Material complementar
 ├── 📁 Unidade II
-│   ├── 📁 Resumos das Aulas
-│   ├── 📁 Códigos
+│   ├── 📁 Códigos das aulas
+│   ├── 📁 Material complementar
 ├── 📁 Unidade III
-│   ├── 📁 Resumos das Aulas
-│   ├── 📁 Códigos
+│   ├── 📁 Códigos das aulas
+│   ├── 📁 Material complementar
 └── README.md
 
 ```

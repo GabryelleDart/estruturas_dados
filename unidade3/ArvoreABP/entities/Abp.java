@@ -107,8 +107,16 @@ public class Abp<T extends Comparable<T>>implements Arborizavel<T>{
 	    return dado;
 	}
 	public String exist(T dado){
-		if(existRec)
+		String resultado;
+		if(existRec(raiz,dado)){
+			resultado="Positivo";
+		}else{
+			resultado="Negativo";
+		}
+		return resultado;
 	}
+
+	private boolean existRec()
 	public void apagaFolha(NoTriplo<T> auxiliar) {
 		//pegar referencia para o pai
 		NoTriplo<T> papai=auxiliar.getGenitor();
